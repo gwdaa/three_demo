@@ -1,0 +1,264 @@
+.container {
+    width: 100%;
+    /* background: #2c2c2c; */
+}
+
+.cover {
+    background: rgba(0, 0, 0, 0.4);
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    z-index: 999;
+    height: auto;
+
+}
+
+.site_broadcast_pop_up_con {
+    position: relative;
+}
+
+.site_broadcast_pop_up_bg {
+    width: 100%;
+    border-bottom: 1px solid #eee;
+    margin-bottom: 5px;
+}
+
+.site_broadcast_pop_up {
+    width: 90%;
+    margin: 10px auto;
+}
+
+.site_broadcast_pop_up li {
+    float: left;
+    display: inline-block;
+    width: 33.333%;
+    text-align: center;
+    font-size: 13px;
+    /* line-height: 28px; */
+}
+
+.li_active {
+    color: #ff9f40;
+}
+
+.site_pop_up_win .site_active {
+    background: #ff9f40;
+}
+
+.site_broadcast_pop_up li img {
+    width: 9px;
+    height: 6px;
+    margin-left: 5px;
+}
+
+.site_pop_up_win_bg {
+    position: absolute;
+    background: #f8f8f8;
+    width: 100%;
+    /* height: 100px; */
+    /* border-top:1px solid #eee;  */
+    z-index: 1000;
+    top: 30px;
+}
+
+.site_pop_up_win {
+    width: 90%;
+    margin: 10px auto 10px;
+}
+
+.site_pop_up_win p {
+    font-size: 15px;
+    margin: 2% 5%;
+
+}
+
+.site_pop_up_win li {
+    float: left;
+    width: 23%;
+    text-align: center;
+    font-size: 12px;
+    background: #eee;
+    margin: 1%;
+    height: 25px;
+    line-height: 25px;
+}
+
+.site_hr {
+    border-bottom: 1px solid #eee;
+
+}
+
+.site_pop_up_btn {
+    width: 96%;
+    margin: 0 auto;
+    background: #ff9f40;
+    text-align: center;
+    height: 30px;
+    font-size: 15px;
+    margin-bottom: 10px;
+    line-height: 30px;
+    color: #fff;
+}
+
+
+.center_live_container {
+    width: 100%;
+    height: 510px;
+
+}
+
+.center_live_header {
+    width: 100%;
+    height: 171px;
+    position: relative;
+    left: 0;
+}
+
+.center_live_con_block {
+    width: 50%;
+    height: 171px;
+    position: absolute;
+    background: #000;
+    left: 0;
+}
+
+.center_live_con_block_1 {
+    width: 50%;
+    height: 171px;
+    position: absolute;
+    right: 0;
+    background: #000;
+}
+
+.center_live_con_block_2 {
+    width: 50%;
+    height: 171px;
+    background: #000;
+    position: absolute;
+    left: 0;
+}
+
+.center_live_con_block_3 {
+    width: 50%;
+    height: 171px;
+    background: #000;
+    position: absolute;
+    right: 0;
+}
+
+.center_live_con_block_4 {
+    width: 50%;
+    height: 171px;
+    background: #000;
+    position: absolute;
+    left: 0;
+}
+
+.center_live_con_block_5 {
+    width: 50%;
+    height: 171px;
+    background: #000;
+    position: absolute;
+    right: 0;
+}
+
+.center_live_con_block img {
+    width: 100%;
+    height: 171px;
+}
+
+.center_live_con_block_1 img {
+    width: 100%;
+    height: 171px;
+}
+
+.center_live_con_block_2 img {
+    width: 100%;
+    height: 171px;
+}
+
+.center_live_con_block_3 img {
+    width: 100%;
+    height: 171px;
+}
+
+.center_live_con_block_4 img {
+    width: 100%;
+    height: 171px;
+}
+
+.center_live_con_block_5 img {
+    width: 100%;
+    height: 171px;
+}
+
+.center_live_con_block_t {
+    width: 100%;
+    height: 42px;
+    position: absolute;
+    ;
+    bottom: 0px;
+    left: 0;
+}
+
+.center_live_con_block_t_l {
+    width: 3px;
+    height: 42px;
+    background: #ff9f40;
+    position: absolute;
+}
+
+.center_live_con_block_t_r {
+    width: 99%;
+    height: 42px;
+    background: rgba(0, 0, 0, 0.7);
+    position: absolute;
+    left: 3px;
+}
+
+.center_live_con_block_t_r p {
+    font-size: 12px;
+    color: #fff;
+    margin: 0 auto;
+    /* margin: 5px 25px 3px 30px; */
+    overflow: hidden;
+    width: 100px;
+    height: 15px;
+    padding-top: 10px;
+}
+
+.center_live_con_block_t_r span {
+    font-size: 9px;
+    color: rgb(192, 190, 190);
+    /* margin: 3px 3px 3px 29px; */
+    overflow: hidden;
+    width: 105px;
+    height: 12px;
+    display: block;
+    margin: 0 auto;
+
+}
+
+
+.au_co_ce_loading {
+    width: 100%;
+    height: 85px;
+    background: #f8f8f8;
+    margin: 0 auto;
+
+}
+
+.au_co_ce_loading_con {
+    width: 48px;
+    height: 65px;
+    padding-top: 20px;
+    margin: 0 auto;
+}
+
+.au_co_ce_loading_con img {
+    width: 48px;
+    height: 56px;
+
+}

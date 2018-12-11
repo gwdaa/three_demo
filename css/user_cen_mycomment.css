@@ -1,0 +1,28 @@
+.user_mycom_container{
+    background: #f8f8f8;
+}
+.user_mycom_top{
+    width: 94%;
+    margin: 0 auto;
+}
+.user_mycom_top_title {
+    color: #4d4d4d;
+    font-size: 15px;
+    margin:10px 0px 5px; 
+
+}
+.user_mycom_top_img img{
+    width:32.2%;
+    height: 75px;
+}
+.user_mycom_top_text p{
+    font-size: 9px;
+    color: #4d4d4d;
+    margin:5px 0px 10px; 
+}
+.user_mycom_top_text span{
+    color: #ffa751;
+}
+.ser_ar_com_details_bg{
+    border-top: 1px solid #eeeeee;
+}

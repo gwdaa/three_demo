@@ -1,0 +1,45 @@
+.sub_pop_window_bg {
+    /* width:100%; */
+    position: relative;
+    width: 100%;
+}
+
+.sub_pop_window {
+    width: 100%;
+    position: absolute;
+    background: #f8f8f8;
+    z-index: 1000;
+}
+.sub_pop_phone{
+    width: 180px;
+    margin: 10px auto;
+}
+.phone_img img{
+    width: 42px;
+    height: 42px;
+}
+.sub_pop_window_cen .nav {
+    border-bottom: none;
+    background: #f8f8f8;
+    margin:20px 0; 
+}
+.phone_text_p{
+    font-size: 12px;
+    color: #9f9f9f;
+}
+.phone_text_number{
+    font-size: 20px;
+    color: #9f9f9f;
+    font-style: italic;
+}
+.cover {
+    background: rgba(0, 0, 0, 0.4);
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    z-index: 999;
+    height: auto;
+
+}

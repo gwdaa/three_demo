@@ -1,0 +1,64 @@
+.au_re_container {
+    width: 100%;
+    background: #f8f8f8;
+}
+
+.au_re_con_center {
+    width: 100%;
+    /* height: 830px; */
+}
+
+.au_title {
+    text-align: center;
+    font-size: 15px;
+    color: #595959;
+    margin-top: 15px;
+}
+
+.au_subtitle {
+    text-align: center;
+    font-size: 9px;
+    color: #797979;
+    margin: 7px 0px;
+}
+
+.au_img {
+    width: 100%;
+    height: 210px;
+}
+
+.au_img img {
+    width: 100%;
+    height: 210px;
+}
+
+.au_text {
+    width: 90%;
+    /* height: 150px; */
+    font-size: 12px;
+    margin: 0 auto;
+    line-height: 18px;
+    text-indent: 2em;
+    padding: 10px 0px;
+}
+
+.au_footer {
+    width: 100%;
+    height: 35px;
+    background: #fff;
+}
+
+.au_link {
+    font-size: 9px;
+    width: 90%;
+
+    margin: 0 auto;
+    line-height: 35px;
+}
+
+.au_link a {
+    text-decoration: none;
+    font-size: 7px;
+    color: #ffa751;
+    border-bottom: 0.5px solid #ffa751;
+}

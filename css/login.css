@@ -1,0 +1,250 @@
+.login_container {
+    width: 100%;
+    background: #fff;
+}
+
+.login_banner {
+    width: 100%;
+    height: 146px;
+    background: #000;
+    position: relative;
+}
+
+.login_banner_bg {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+
+}
+
+.login_banner_img {
+    width: 125px;
+    height: 140px;
+    overflow: hidden;
+    /* margin: 10px 0px 0px 50px; */
+    position: absolute;
+    top: 14px;
+    left: 10%;
+}
+
+.login_banner_img img {
+    width: 100%;
+
+
+}
+
+.login_banner_right {
+    font-size: 20px;
+    color: #fff;
+    position: absolute;
+    right: 30px;
+    top: 40px;
+    /* margin-top: 80px; */
+}
+
+.login_cen {
+    width: 80%;
+    margin: 20px auto;
+
+}
+
+.login_cen_text {
+    margin: 0 0 10px;
+    /* width: 100%; */
+    height: 38px;
+    background: #f5f5f5;
+    border: 1px solid #c7c7c7;
+    overflow: hidden;
+    border-radius: 4px;
+}
+
+.login_cen_text input {
+    height: 38px;
+    border: 0px;
+    background: #f5f5f5;
+    outline: none;
+    padding-left: 10px;
+}
+
+.login_cen_text_vc {
+    width: 70%;
+    height: 38px;
+    border: 1px solid #c7c7c7;
+    overflow: hidden;
+    border-radius: 4px;
+    background: #f5f5f5;
+}
+
+.register_cen_text_vc {
+    width: 60%;
+    height: 38px;
+    border: 1px solid #c7c7c7;
+    overflow: hidden;
+    border-radius: 4px;
+    background: #f5f5f5;
+}
+
+.register_cen_text_vc input {
+    height: 38px;
+    border: 0px;
+    background: #f5f5f5;
+    outline: none;
+    padding-left: 10px;
+}
+
+.login_cen_text_vc input {
+    height: 38px;
+    border: 0px;
+    background: #f5f5f5;
+    outline: none;
+    padding-left: 10px;
+}
+
+.phonevfc {
+    width: 35%;
+    height: 40px;
+    background: #ffa751;
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 15px;
+    line-height: 38px;
+    border-radius:3px; 
+
+}
+
+.vfc {
+    width: 25%;
+    height: 40px;
+    background: #b2b2b2;
+    text-align: center;
+    color: #646464;
+    font-size: 15px;
+    line-height: 38px;
+}
+
+.login_password_disopse {
+    height: 20px;
+    margin-top: 5px;
+    font-size: 10px;
+    color: #6c6c6c;
+}
+
+.login_password_input {
+    width: 10px;
+    height: 10px;
+    background-color: #ccc;
+    margin: 1px 5px 0 0;
+    border: 1px solid #7895ab;
+}
+
+.login_forget_password {
+    margin-right: 25%;
+}
+
+.login_btn {
+    height: 40px;
+    margin-top: 10px;
+}
+
+.login_btn .register a {
+    text-decoration: none;
+    color: #ffa751;
+}
+
+.login_btn a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.login_btn .register {
+    width: 45%;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    border: 1px solid #ffa751;
+    border-radius: 4px;
+    color: #ffa751;
+}
+.login_btn .register_re {
+    width: 45%;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    border: 1px solid #ffa751;
+    border-radius: 4px;
+    color: #ffa751;
+    font-size: 10px;
+}
+
+.login_btn .login {
+    width: 45%;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    background: #ffa751;
+    border-radius: 4px;
+}
+
+.login_method {
+    margin-top: 30px;
+    height: 85px;
+    border-top: 1px solid #ccc;
+    position: relative;
+    text-align: center;
+}
+
+.login_method_text {
+    position: absolute;
+    top: -10px;
+    background: #fff;
+    width: 56%;
+    margin-left: 22%;
+}
+
+.login_method_con img {
+    width: 43px;
+    height: 43px;
+    margin: 30px 6px 8px 6px;
+}
+
+.retrieve_pass_nav {
+    /* width: 90%; */
+    margin: 20px auto;
+}
+
+
+
+.retrieve_pass_nav li {
+    float: left;
+    list-style: none;
+    font-size: 13px;
+    margin: 0 auto;
+    /* background: #000; */
+    /* display: inline-block; */
+    margin-left: 15px;
+}
+
+.retrieve_pass_nav a {
+    text-decoration: none;
+    color: #000;
+}
+
+.retrieve_pass_nav .pass_active {
+    color: #ffa751;
+}
+
+.retrieve_pass_btn {
+    background: #ffa751;
+    width: 110px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    margin: 20px auto;
+    border-radius: 3px;
+
+}
+
+.retrieve_pass_btn a {
+    text-decoration: none;
+    color: #fff;
+}
